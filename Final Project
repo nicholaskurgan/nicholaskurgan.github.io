@@ -1,0 +1,31 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Nick's website</title>
+        <style>
+          body{
+              background-color :#820732;
+            }
+            
+            #piss{
+             
+            }
+      
+        </style>
+    </head>
+    <body>
+    <img src="myBanner.jpg">
+       
+        <p></p>
+        <a href="https://nicholaskurgan.github.io"><img src="home_button.png"></a> <a href="https://nicholaskurgan.github.io/javacripts.html"><img src="javascript buton.png"></a> <a href="https://nicholaskurgan.github.io/about.html"><img src="about me button.png"></a> <a href="https://nicholaskurgan.github.io/apps.html"><img src="apps button.png"></a>  <a href="https://nicholaskurgan.github.io/bone_zone.html"><img src="bone zone button.png"></a>
+        <h1 id="piss">Heres the final project in all of its glory</h1>
+        <p>You are the commander of a spaceship making the deadly kestrel run </p>
+        <p>Move up with space and let go to fall back down, avoid the asteroids and complete the mission</p>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/aqa47HIgM3M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        
+        
+        <h2><a href="https://www.khanacademy.org/computer-programming/final-project/4650142162010112">Final Project</a></h2><script src="https://www.khanacademy.org/computer-programming/final-project/4650142162010112/embed.js?editor=no&buttons=no&author=no&embed=yes"></script>
+        
+    </body>
+</html>
